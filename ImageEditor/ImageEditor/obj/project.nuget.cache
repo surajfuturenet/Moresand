@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XYBHT8tZ93UtzShoL27WD8Ad8RsGM76xogY+cot8YBTl0zgo9U+mCY3z6cOtgmtgnqERCUrjn6sNvq60+Ddftg==",
+  "success": true,
+  "projectFilePath": "D:\\Omni Technologies\\Moresand\\ImageEditor\\ImageEditor\\ImageEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suraj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

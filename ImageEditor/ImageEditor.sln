@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageEditor", "ImageEditor\ImageEditor.csproj", "{B8DAE6D9-114D-4DF1-B631-18014489F60B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageProcessService", "ImageProcessService\ImageProcessService.csproj", "{C193A3BF-DE47-4134-80AA-2E3F1896A3A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluginInterfaces", "PluginInterfaces\PluginInterfaces.csproj", "{2CBCFDE8-6F18-409E-A766-4936A8A6C511}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DropShadow", "..\Plugins\DropShadow\DropShadow.csproj", "{F8C33F2B-D06C-4654-9288-55051BD58C3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResizeImage", "..\Plugins\ResizeImage\ResizeImage.csproj", "{8938767A-ABFE-46EE-9C47-631AB31B8348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8DAE6D9-114D-4DF1-B631-18014489F60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DAE6D9-114D-4DF1-B631-18014489F60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DAE6D9-114D-4DF1-B631-18014489F60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DAE6D9-114D-4DF1-B631-18014489F60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C193A3BF-DE47-4134-80AA-2E3F1896A3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C193A3BF-DE47-4134-80AA-2E3F1896A3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C193A3BF-DE47-4134-80AA-2E3F1896A3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C193A3BF-DE47-4134-80AA-2E3F1896A3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBCFDE8-6F18-409E-A766-4936A8A6C511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBCFDE8-6F18-409E-A766-4936A8A6C511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBCFDE8-6F18-409E-A766-4936A8A6C511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBCFDE8-6F18-409E-A766-4936A8A6C511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C33F2B-D06C-4654-9288-55051BD58C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C33F2B-D06C-4654-9288-55051BD58C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C33F2B-D06C-4654-9288-55051BD58C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C33F2B-D06C-4654-9288-55051BD58C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8938767A-ABFE-46EE-9C47-631AB31B8348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8938767A-ABFE-46EE-9C47-631AB31B8348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8938767A-ABFE-46EE-9C47-631AB31B8348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8938767A-ABFE-46EE-9C47-631AB31B8348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6ECB6D-3B6D-49EE-8D20-801CA9D7299B}
+	EndGlobalSection
+EndGlobal

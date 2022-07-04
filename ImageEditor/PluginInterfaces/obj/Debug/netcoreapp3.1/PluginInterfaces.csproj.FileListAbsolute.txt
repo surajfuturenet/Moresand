@@ -1,0 +1,8 @@
+D:\Omni Technologies\Moresand\ImageEditor\PluginInterfaces\bin\Debug\netcoreapp3.1\PluginInterfaces.deps.json
+D:\Omni Technologies\Moresand\ImageEditor\PluginInterfaces\bin\Debug\netcoreapp3.1\PluginInterfaces.dll
+D:\Omni Technologies\Moresand\ImageEditor\PluginInterfaces\bin\Debug\netcoreapp3.1\PluginInterfaces.pdb
+D:\Omni Technologies\Moresand\ImageEditor\PluginInterfaces\obj\Debug\netcoreapp3.1\PluginInterfaces.AssemblyInfoInputs.cache
+D:\Omni Technologies\Moresand\ImageEditor\PluginInterfaces\obj\Debug\netcoreapp3.1\PluginInterfaces.AssemblyInfo.cs
+D:\Omni Technologies\Moresand\ImageEditor\PluginInterfaces\obj\Debug\netcoreapp3.1\PluginInterfaces.csproj.CoreCompileInputs.cache
+D:\Omni Technologies\Moresand\ImageEditor\PluginInterfaces\obj\Debug\netcoreapp3.1\PluginInterfaces.dll
+D:\Omni Technologies\Moresand\ImageEditor\PluginInterfaces\obj\Debug\netcoreapp3.1\PluginInterfaces.pdb

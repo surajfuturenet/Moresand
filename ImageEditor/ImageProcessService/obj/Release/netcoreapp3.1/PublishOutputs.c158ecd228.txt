@@ -1,0 +1,7 @@
+D:\Omni Technologies\Moresand\ImageEditor\ImageProcessService\obj\Release\netcoreapp3.1\PubTmp\Out\ImageProcessService.exe
+D:\Omni Technologies\Moresand\ImageEditor\ImageProcessService\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Omni Technologies\Moresand\ImageEditor\ImageProcessService\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Omni Technologies\Moresand\ImageEditor\ImageProcessService\obj\Release\netcoreapp3.1\PubTmp\Out\ImageProcessService.dll
+D:\Omni Technologies\Moresand\ImageEditor\ImageProcessService\obj\Release\netcoreapp3.1\PubTmp\Out\ImageProcessService.deps.json
+D:\Omni Technologies\Moresand\ImageEditor\ImageProcessService\obj\Release\netcoreapp3.1\PubTmp\Out\ImageProcessService.runtimeconfig.json
+D:\Omni Technologies\Moresand\ImageEditor\ImageProcessService\obj\Release\netcoreapp3.1\PubTmp\Out\ImageProcessService.pdb
