@@ -1,2 +1,4 @@
 # Moresand
- This is a plugin management framework
+This is a Sample Plugin Management Framework
+
+
